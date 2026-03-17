@@ -1,3 +1,3 @@
 module github.com/nolanefe/Distributed-Vector-Store-Lite
 
-go 1.26.1
+go 1.21
