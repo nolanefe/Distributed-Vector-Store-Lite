@@ -19,8 +19,7 @@ A distributed vector database where concurrent Go routines act as partitioned da
 This project requires the Go compiler to be installed on your system.
 
 # 1. Clone the repository
-git clone https://github.com/nolanefe/Distributed-Vector-Store-Lite.git
-cd Distributed-Vector-Store-Lite
+git clone https://github.com/nolanefe/Distributed-Vector-Store-Lite.git <br> cd Distributed-Vector-Store-Lite
 
 # 2. Run the node and execute the search pipeline
 go run main.go
