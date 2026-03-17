@@ -1,8 +1,6 @@
 # Distributed Vector Store Lite #
 
-A distributed vector database where concurrent Go routines act as partitioned data shards to execute hyper-fast cosine similarity searches for scalable AI retrieval. 
-
-This project serves as a lightweight, concurrent alternative to standard SQL databases, specifically engineered to keep high-dimensional embeddings in memory without heavy I/O bottlenecks.
+A distributed vector database where concurrent Go routines act as partitioned data shards to execute hyper-fast cosine similarity searches for scalable AI retrieval. This project serves as a lightweight, concurrent alternative to standard SQL databases, specifically engineered to keep high-dimensional embeddings in memory without heavy I/O bottlenecks.
 
 ## Core Architecture ##
 
