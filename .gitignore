@@ -1,0 +1,10 @@
+# Go compiled binaries
+Distributed-Vector-Store-Lite
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# OS files
+.DS_Store
